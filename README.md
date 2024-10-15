@@ -12,7 +12,8 @@
 
 
 <h2 align="left">
-  ~𝓗𝓮𝓵𝓵𝓸 𝓦𝓸𝓻𝓵𝓭!~
+  💜~𝓗𝓮𝓵𝓵𝓸 𝓦𝓸𝓻𝓵𝓭!~
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
@@ -23,7 +24,7 @@ Technology has always fascinated me, and the world of cybersecurity has complete
 With a focus on malware, scripts, and learning to protect valuable assets, I hope to become a Cybersecurity Specialist—securing companies and helping the community along the way 💜.
 
 
-<h2 id="current_focus">~𝓘𝓷 𝓟𝓻𝓸𝓰𝓻𝓮𝓼𝓼~</h3>
+<h2 id="current_focus">💜~𝓘𝓷 𝓟𝓻𝓸𝓰𝓻𝓮𝓼𝓼~💜</h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/b0b9d336-f55c-41a9-8b11-bce28fe1c68d">
 
@@ -32,11 +33,10 @@ With a focus on malware, scripts, and learning to protect valuable assets, I hop
 💜 Currently Learning Linux and Bash scripting 
 
 💜 Building & Contributing To Open Source Projects
+ 
 
-👉 Currently Learning mobile pentesting & web3 
 
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''>💜~𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 & 𝓢𝓴𝓲𝓵𝓵𝓼~💜</h2>
 
 <br>
 
@@ -72,16 +72,23 @@ With a focus on malware, scripts, and learning to protect valuable assets, I hop
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetlySavage9&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+<h2 id="github_stats" align=''> 📊 💜~𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼~💜</h2>
+<p>
+<a href="https://github.com/SweetlySavage9">
+  <img src="https://github-readme-stats.vercel.app/api?username=SweetlySavage9" alt="Nashra's GitHub stats" />
+</a>
 
-<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SweetlySavage9" alt="nashra79" /></a> </p>
+</br>
+</br>
+</br>
+<p align="center">
+  💜~𝓗𝓪𝓽𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓱𝓪𝓽𝓮 𝓪𝓷𝓭 𝓗𝓪𝓬𝓴𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓗𝓪𝓬𝓴~💜
+</p>
 
-
+<p align="center">
+<a>𝓝𝓐𝓢𝓗𝓡𝓐</a>
+</p>
 
 
 
