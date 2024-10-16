@@ -100,6 +100,10 @@ With a focus on malware, scripts, and learning to protect valuable assets, I hop
 </br>
 </br>
 </br>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SweetlySavage9&theme=dark" alt="GitHub Streak" />
+</a>
+
 <p align="center">
   💜~𝓗𝓪𝓽𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓱𝓪𝓽𝓮 𝓪𝓷𝓭 𝓗𝓪𝓬𝓴𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓗𝓪𝓬𝓴~💜
 </p>
