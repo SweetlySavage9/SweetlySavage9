@@ -11,7 +11,7 @@
 
 
 <h2 align="left">
-  Hi there
+  Hello World!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 <img width="30%" align='right' src="https://github.com/user-attachments/assets/345400e1-cef0-4df3-9795-73790c20791f">
