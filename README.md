@@ -89,20 +89,27 @@ With a focus on malware, scripts, and learning to protect valuable assets, I hop
 
 ---
 
+<h2 id="github_stats"> 📊 💜~𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼~💜</h2>
 
-<h2 id="github_stats" align=''> 📊 💜~𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼~💜</h2>
 <p>
-<a href="https://github.com/SweetlySavage9">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetlySavage9" alt="Nashra's GitHub stats" />
-</a>
+  <a href="https://github.com/SweetlySavage9">
+    <img src="https://github-readme-stats.vercel.app/api?username=SweetlySavage9&show_icons=true&theme=dark" alt="Nashra's GitHub stats" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SweetlySavage9" alt="nashra79" /></a> </p>
-</br>
-</br>
-</br>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=SweetlySavage9&theme=dark" alt="GitHub Streak" />
-</a>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SweetlySavage9&theme=darkhub" alt="Nashra's GitHub Trophies" />
+  </a>
+</p>
+
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SweetlySavage9&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 <p align="center">
   💜~𝓗𝓪𝓽𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓱𝓪𝓽𝓮 𝓪𝓷𝓭 𝓗𝓪𝓬𝓴𝓮𝓻𝓼 𝓪𝓻𝓮 𝓰𝓸𝓷𝓷𝓪 𝓗𝓪𝓬𝓴~💜
