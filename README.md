@@ -93,18 +93,13 @@ Stay tuned for more awesome projects and insights as I keep pushing forward!
 
 <h2 id="cyberartist"> 👩🏻‍🎨 💜𝓒𝓻𝓪𝔃𝔂 𝓬𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓪𝓻𝓽𝓲𝓼𝓽💜</h2>
 
-I love creating cyber notes along with **Kawaii** sketches. It's all about releasing stress and making me look **cool**! 
-```
-  ∧,,,∧
-( ̳• · • ̳)
-/ づ♡ I love you
-```
+I love creating cyber notes along with **Kawaii** sketches. It's all about releasing stress and making me look **cool** ✧･ﾟ: *✧･ﾟ:*! 
 
-
-<div style="display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/28cd8f46-36d2-4c53-b7cc-68ba35a61afc" style="width: 50%; height: auto; display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/41bf6553-d806-4990-bf13-6ff044668a93" style="width: 50%; height: auto; display: inline-block;" />
+<div >
+  <img align="right" style="width: 35%; height: auto;" src="https://github.com/user-attachments/assets/28cd8f46-36d2-4c53-b7cc-68ba35a61afc" />
+  
 </div>
+<img src="https://github.com/user-attachments/assets/41bf6553-d806-4990-bf13-6ff044668a93" style="width: 35%; height: auto; " />
 
 
 
@@ -135,7 +130,9 @@ I love creating cyber notes along with **Kawaii** sketches. It's all about relea
 </p>
 
 <p align="center">
-<a>𝓝𝓐𝓢𝓗𝓡𝓐</a>
+<a>𝓝𝓐𝓢𝓗𝓡𝓐</a> </br>
+</br>
+ <a> -ˋˏ ༻✿༺ ˎˊ-  </a>
 </p>
 
 
