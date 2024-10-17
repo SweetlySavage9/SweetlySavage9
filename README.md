@@ -6,10 +6,6 @@
   </a>
 </div>
 
-
-
-
-
 <h2 align="left">
   Hello World!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
@@ -24,7 +20,6 @@ Tech has always fascinated me, and cybersecurity has completely hooked me in. </
 I'm all about blending my red team and blue team skills to make a difference and contribute to the tech community. 💜 </br>
 
 Stay tuned for more awesome projects and insights as I keep pushing forward!
-
 
 <h2 id="current_focus"> 💜~𝓘𝓷 𝓟𝓻𝓸𝓰𝓻𝓮𝓼𝓼~💜 </h3>
 
