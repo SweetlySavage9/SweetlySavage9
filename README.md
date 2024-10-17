@@ -16,13 +16,14 @@
 </h2>
 <img width="30%" align='right' src="https://github.com/user-attachments/assets/345400e1-cef0-4df3-9795-73790c20791f">
 
-I'm **Nashra**, currently diving into everything in cybersecurity. I'm working on sharpening my skills in **website vulnerabilities** and **SOC analyst tasks**.
+I'm **Nashra** and I'm diving deep into the exciting world of cybersecurity.</br> sharpening my skills in website vulnerabilities for **bug hunting** and **crushing those SOC analyst tasks.** </br>
 
-I have a **BSc and MSc in cybersecurity** and completed a **cybersecurity internship at a German company**.
+With a **BSc and MSc in cybersecurity** and an **internship at a German company**, I've gained a solid foundation that I'm now building upon every day. </br>
 
-Technology has always fascinated me, and the world of cybersecurity has completely **drawn me in**.
+Tech has always fascinated me, and cybersecurity has completely hooked me in. </br>
+I'm all about blending my red team and blue team skills to make a difference and contribute to the tech community. 💜 </br>
 
-I hope to contribute to the tech community with my skills in the future. 💜
+Stay tuned for more awesome projects and insights as I keep pushing forward!
 
 
 <h2 id="current_focus"> 💜~𝓘𝓷 𝓟𝓻𝓸𝓰𝓻𝓮𝓼𝓼~💜 </h3>
