@@ -93,9 +93,11 @@ I hope to contribute to the tech community with my skills in the future. 💜
 <h2 id="cyberartist"> 👩🏻‍🎨 💜𝓒𝓻𝓪𝔃𝔂 𝓬𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓪𝓻𝓽𝓲𝓼𝓽💜</h2>
 
 I love creating cyber notes along with **Kawaii** sketches. It's all about releasing stress and making me look **cool**! 
+```
   ∧,,,∧
-(  ̳• · • ̳)
-/    づ♡ I love you
+( ̳• · • ̳)
+/ づ♡ I love you
+```
 
 
 <div style="display: inline-block;">
