@@ -22,7 +22,7 @@ I have a **BSc and MSc in cybersecurity** and completed a **cybersecurity intern
 
 Technology has always fascinated me, and the world of cybersecurity has completely **drawn me in**.
 
-With a focus on malware, scripts, and learning to protect valuable assets, I hope to become a Cybersecurity Specialist—securing companies and helping the community along the way 💜
+I hope to contribute to the tech community with my skills in the future. 💜
 
 
 <h2 id="current_focus"> 💜~𝓘𝓷 𝓟𝓻𝓸𝓰𝓻𝓮𝓼𝓼~💜 </h3>
@@ -92,7 +92,10 @@ With a focus on malware, scripts, and learning to protect valuable assets, I hop
 
 <h2 id="cyberartist"> 👩🏻‍🎨 💜𝓒𝓻𝓪𝔃𝔂 𝓬𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓪𝓻𝓽𝓲𝓼𝓽💜</h2>
 
-I love creating cyber notes along with **Kawaii** sketches. It's all about releasing stress and making me look **cool**!
+I love creating cyber notes along with **Kawaii** sketches. It's all about releasing stress and making me look **cool**! 
+  ∧,,,∧
+(  ̳• · • ̳)
+/    づ♡ I love you
 
 <div style="display: inline-block;">
     <img src="https://github.com/user-attachments/assets/28cd8f46-36d2-4c53-b7cc-68ba35a61afc" style="width: 50%; height: auto; display: inline-block;" />
