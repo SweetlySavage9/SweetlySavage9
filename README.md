@@ -45,7 +45,7 @@ I hope to contribute to the tech community with my skills in the future. 💜
 
  
 
-<h2 id="knowledge_skills" align=''>💜~𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 & 𝓢𝓴𝓲𝓵𝓵𝓼~💜</h2>
+<h2 id="knowledge_skills" align=''>💜~𝓢𝓴𝓲𝓵𝓵𝓼~💜</h2>
 
 <br>
 
