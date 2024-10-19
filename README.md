@@ -101,18 +101,7 @@ I love creating cyber notes along with **Kawaii** sketches. It's all about relea
 <h2 id="github_stats"> 📊 💜~𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼~💜</h2>
 
 <p>
-  <a href="https://github.com/SweetlySavage9">
-    <img src="https://github-readme-stats.vercel.app/api?username=SweetlySavage9&show_icons=true&theme=dark" alt="Nashra's GitHub stats" />
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SweetlySavage9&theme=darkhub" alt="Nashra's GitHub Trophies" />
-  </a>
-</p>
-
-<p>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=SweetlySavage9&theme=dark" alt="GitHub Streak" />
   </a>
