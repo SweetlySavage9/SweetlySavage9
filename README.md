@@ -42,11 +42,14 @@ Stay tuned for more awesome projects and insights as I keep pushing forward!
  
 
 <h2 id="knowledge_skills" align=''>💜~𝓢𝓴𝓲𝓵𝓵𝓼~💜</h2>
+<br>
+<img width="25%" align='left' src="https://github.com/user-attachments/assets/2a05d31c-3891-413c-a867-cd8b3661387d">
+
 
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
@@ -83,8 +86,11 @@ Stay tuned for more awesome projects and insights as I keep pushing forward!
   </div>
 </div>
 
-
----
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2 id="cyberartist"> 👩🏻‍🎨 💜𝓒𝓻𝓪𝔃𝔂 𝓬𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓪𝓻𝓽𝓲𝓼𝓽💜</h2>
 
